@@ -1,5 +1,5 @@
 package com.webService.domain;
 
-public class fedSchool {
+public class FedSchool {
 
 }
